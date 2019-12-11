@@ -1,30 +1,20 @@
 # angular-mobilenumber-countrycode-dropdown
-Angular country code dropdown list module
+Angular Mobilenumber Countrycode Dropdown component is an angular component which helps you to get list of country codes without hardcoding and in simple steps.
 
-# MyWorkspace
+## Installation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
+`npm install angular-mobilenumber-countrycode-dropdown --save`
 
-## Development server
+## How TO Use
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+`import {AngularMobilenumberCountrycodeDropdownComponent} from "angular-mobilenumber-countrycode-dropdown/projects/angular-mobilenumber-countrycode-dropdown/src/lib/angular-mobilenumber-countrycode-dropdown.component";`
 
-## Code scaffolding
+`<lib-angular-mobilenumber-countrycode-dropdown  (countrySelectHandler)="YOUR_FUNCTION(selectedItem)"> </lib-angular-mobilenumber-countrycode-dropdown>`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Author
 
-## Build
+Sudhakar Reddy
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## License
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+MIT
