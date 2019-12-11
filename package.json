@@ -1,7 +1,10 @@
 {
   "name": "angular-mobilenumber-countrycode-dropdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
+  "author": {
+    "name": "Sudhakar Reddy"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,6 +13,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+
   "dependencies": {
     "@angular/animations": "~8.2.13",
     "@angular/common": "~8.2.13",
@@ -46,5 +50,19 @@
     "tsickle": "^0.37.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sudhakardandu/angular-mobilenumber-countrycode-dropdown/issues"
+  },
+  "homepage": "https://github.com/sudhakardandu/angular-mobilenumber-countrycode-dropdown#readme",
+  "keywords": [
+    "angular-dropdown-countrycode",
+    "angular",
+    "angular-dropdown-mobilenumber",
+    "angular8",
+    "npm angular dropdown",
+    "ng dropdown",
+    "angular-mobilenumber-countrycode-dropdown",
+    "ng dropdown-countrycode"
+  ]
 }
